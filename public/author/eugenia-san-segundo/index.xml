@@ -5,12 +5,240 @@
     <link>https://example.com/author/eugenia-san-segundo/</link>
       <atom:link href="https://example.com/author/eugenia-san-segundo/index.xml" rel="self" type="application/rss+xml" />
     <description>Eugenia San Segundo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Aug 2025 21:09:17 +0200</lastBuildDate>
     <image>
-      <url>https://example.com/author/eugenia-san-segundo/avatar_hu4555fcdbefafc1de6be75d56fcb13336_387857_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Eugenia San Segundo</title>
       <link>https://example.com/author/eugenia-san-segundo/</link>
     </image>
+    
+    <item>
+      <title>Perception of audio deepfakes in Spanish and Japanese: effects of language, speaking style, and voice familiarity</title>
+      <link>https://example.com/publication/lopez-jareno-perception-2025/</link>
+      <pubDate>Wed, 13 Aug 2025 21:09:17 +0200</pubDate>
+      <guid>https://example.com/publication/lopez-jareno-perception-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual evaluation of synthetic voice detection with dysphonic speakers</title>
+      <link>https://example.com/publication/romero-perceptual-2025/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/romero-perceptual-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception of audio deepfakes in Spanish and Japanese: effects of language, speaking style, and voice familiarity</title>
+      <link>https://example.com/event/lopez-jareno-2025/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/lopez-jareno-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual evaluation of synthetic voice detection with dysphonic speakers</title>
+      <link>https://example.com/event/romero-2025/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/romero-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluación de la percepción humana en la detección de deepfakes de audio</title>
+      <link>https://example.com/event/san-segundo-evaluacion-2025/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-evaluacion-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmasking Voice Deepfakes: The Role of Phoneticians</title>
+      <link>https://example.com/event/san-segundo-unmasking-2025/</link>
+      <pubDate>Mon, 24 Feb 2025 12:49:08 +0100</pubDate>
+      <guid>https://example.com/event/san-segundo-unmasking-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Los deepfakes de voz: ¿qué podemos aportar los fonetistas?</title>
+      <link>https://example.com/event/san-segundo-deepfakes-2025/</link>
+      <pubDate>Tue, 18 Feb 2025 12:49:08 +0100</pubDate>
+      <guid>https://example.com/event/san-segundo-deepfakes-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A qualitative systematic review of intra-speaker variation in the human voice</title>
+      <link>https://example.com/publication/san-segundo-qualitative-2025/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/san-segundo-qualitative-2025/</guid>
+      <description>&lt;p&gt;Link to the publication &lt;a href=&#34;https://osf.io/preprints/osf/me6ap_v1&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deepfakes frente a voces de gemelos idénticos: un análisis acústico preliminar</title>
+      <link>https://example.com/publication/san-segundo-deepfakes-2024/</link>
+      <pubDate>Mon, 25 Nov 2024 18:39:04 +0100</pubDate>
+      <guid>https://example.com/publication/san-segundo-deepfakes-2024/</guid>
+      <description>&lt;p&gt;Link to the publication &lt;a href=&#34;https://osf.io/preprints/osf/ckf6g&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reconocimiento perceptivo de hablantes: un experimento con voces clonadas artificialmente y con voces de gemelos idénticos</title>
+      <link>https://example.com/publication/san-segundo-reconocimiento-2024/</link>
+      <pubDate>Mon, 25 Nov 2024 18:27:24 +0100</pubDate>
+      <guid>https://example.com/publication/san-segundo-reconocimiento-2024/</guid>
+      <description>&lt;p&gt;Link to the publication &lt;a href=&#34;https://osf.io/preprints/osf/dtgwc&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>El reto de investigar deepfakes de voz en la era de la inteligencia artificial</title>
+      <link>https://example.com/event/san-segundo-reto-2024/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-reto-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker identification of artificially cloned voices versus the voices of identical twins: a perceptual test.</title>
+      <link>https://example.com/event/san-segundo-speaker-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 20:07:47 +0200</pubDate>
+      <guid>https://example.com/event/san-segundo-speaker-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice deepfakes and the voices of identical twins: a preliminary acoustic analysis</title>
+      <link>https://example.com/event/san-segundo-voice-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 20:07:47 +0200</pubDate>
+      <guid>https://example.com/event/san-segundo-voice-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering approaches to dysarthria using spectral measures from the temporal envelope</title>
+      <link>https://example.com/event/san-segundo-clustering-2024/</link>
+      <pubDate>Tue, 02 Jul 2024 20:38:53 +0200</pubDate>
+      <guid>https://example.com/event/san-segundo-clustering-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering approaches to dysarthria using spectral measures from the temporal envelope</title>
+      <link>https://example.com/publication/san-segundo-clustering-2024/</link>
+      <pubDate>Tue, 02 Jul 2024 18:00:19 +0200</pubDate>
+      <guid>https://example.com/publication/san-segundo-clustering-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El efecto «otro acento» en una rueda de reconocimiento de voces: un estudio perceptivo en español</title>
+      <link>https://example.com/publication/san-segundo-efecto-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/san-segundo-efecto-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La fonética forense: de dónde venimos y hacia dónde vamos</title>
+      <link>https://example.com/event/san-segundo-fonetica-2024/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-fonetica-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profundizando en los deepfakes: ¿Qué hace humana a una voz?</title>
+      <link>https://example.com/publication/san-segundo-profundizando-2024/</link>
+      <pubDate>Mon, 15 Apr 2024 11:10:57 +0200</pubDate>
+      <guid>https://example.com/publication/san-segundo-profundizando-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>¿Voz real o deepfake? Aportaciones desde la fonética forense</title>
+      <link>https://example.com/publication/san-segundo-voz-2023/</link>
+      <pubDate>Tue, 24 Oct 2023 00:23:04 +0200</pubDate>
+      <guid>https://example.com/publication/san-segundo-voz-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fonética forense: no existe un libro de recetas</title>
+      <link>https://example.com/event/san-segundo-fonetica-2023/</link>
+      <pubDate>Thu, 19 Oct 2023 12:49:08 +0100</pubDate>
+      <guid>https://example.com/event/san-segundo-fonetica-2023/</guid>
+      <description>&lt;p&gt;Ponencia invitada en el seminario formativo &lt;em&gt;Perspectivas de análisis en fonética experimental&lt;/em&gt;, enmarcado en el Programa de Doctorado Interuniversitario de Lenguas y Culturas, celebrado en el Edificio López de Alba y Aula Magna de la Facultad de Filosofía y Letras (Universidad de Córdoba) el día 19 de octubre de 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Charla invitada sobre fonética forense</title>
+      <link>https://example.com/event/san-segundo-charla-2023/</link>
+      <pubDate>Mon, 16 Oct 2023 13:20:08 +0100</pubDate>
+      <guid>https://example.com/event/san-segundo-charla-2023/</guid>
+      <description>&lt;p&gt;Ponencia invitada en el Cuarto Seminario de Lingüística y Fonética Forense, organizado por el Laboratorio de Fonética y el Servicio General de Apoyo a la Investigación de la Universidad de La Laguna.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterizing rhythm in dysarthric speech using the temporal envelope</title>
+      <link>https://example.com/publication/san-segundo-characterizing-2023/</link>
+      <pubDate>Wed, 23 Aug 2023 18:00:19 +0200</pubDate>
+      <guid>https://example.com/publication/san-segundo-characterizing-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing rhythm in dysarthric speech using the temporal envelope</title>
+      <link>https://example.com/event/san-segundo-characterizing-2023/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-characterizing-2023/</guid>
+      <description>&lt;p&gt;Link to the publication &lt;a href=&#34;https://guarant.cz/icphs2023/578.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>¿Voz real o deepfake? Aportaciones desde la fonética forense</title>
+      <link>https://example.com/event/san-segundo-voz-2023/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-voz-2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resumen:&lt;/strong&gt; &lt;br&gt;
+Cada vez es más frecuente encontrar, en diferentes medios de comunicación digital, ejemplos de voces extremadamente similares a las humanas (por ejemplo, las de algún político, actor o periodista), pero que en realidad han sido simuladas mediante inteligencia artificial. Se trata de los llamados &amp;ldquo;deepfakes”, cada vez más extendidos gracias al auge de las redes neuronales profundas. Si bien estos avances tecnológicos pueden reportar grandes beneficios en el ámbito clínico (clonación de voz para pacientes con trastornos neurodegenerativos) o en el área de la síntesis de voz (dotar de características naturales a los asistentes de voz), existen otros ámbitos en los que esta tecnología supone una amenaza. En ocasiones cae en manos de defraudadores, que cometen infracciones de seguridad aprovechando que cada vez es más habitual el acceso a las cuentas bancarias mediante autenticación vocal. Estas situaciones se conocen como ataques de suplantación de identidad (en inglés: spoofing attacks). En el ámbito forense, si los deepfakes llegan a convertirse en audios de un realismo extremo, existe el peligro de que cuestione el uso de grabaciones de voz como prueba en los informes periciales, precisamente por la imposibilidad de distinguir voces reales de deepfakes.&lt;/p&gt;
+&lt;p&gt;En esta comunicación presentaremos los objetivos y la metodología del proyecto de investigación “¿Qué hace humana a una voz? Hacia una mejor comprensión de las características fonéticas que permiten distinguir voces reales de deepfakes (HowDIs: How Deepfake Is your voice)”, PID2021-124995OA-I00, financiado por MCIN/ AEI/ y por FEDER (UE). Nos centraremos en explicar la metodología llevada a cabo en la primera fase del proyecto: revisión sistemática de la bibliografía relevante para los objetivos de nuestro proyecto. Para ello hemos seguido las etapas metodológicas habituales en una revisión Cochrane (Sambunjak, Cumpston y Watts, 2017), que tiene como objetivo reducir el sesgo en el proceso de recogida de datos bibliográficos, en su síntesis y en la presentación de los mismos. Las características clave de una revisión sistemática son: objetivos claramente establecidos; criterios de elegibilidad predefinidos; metodología explícita y reproducible; búsqueda sistemática de la bibliografía; evaluación de la validez de los estudios incluidos (evaluación exhaustiva de su calidad o su riesgo de sesgo); y, finalmente, síntesis sistemática.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Referencias&lt;/strong&gt;
+Sambunjak D, Cumpston M, Watts C. Module 1: Introduction to conducting systematic reviews. In: Cochrane Interactive Learning: Conducting an intervention review. Cochrane, 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>La fonética forense: nuevos retos y nuevas líneas de investigación</title>
+      <link>https://example.com/publication/san-segundo-lafonetica-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/san-segundo-lafonetica-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La fonética forense: qué es y cuáles son sus principales áreas de aplicación</title>
+      <link>https://example.com/publication/san-segundo-foneticaforense-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/san-segundo-foneticaforense-2023/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=19700200924&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=19700200924&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voice Quality at the Crossroads between Forensic Phonetics and Clinical Phonetics</title>
+      <link>https://example.com/publication/san-segundo-voice-2022/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/san-segundo-voice-2022/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
