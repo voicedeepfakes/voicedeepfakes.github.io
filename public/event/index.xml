@@ -5,12 +5,60 @@
     <link>https://example.com/event/</link>
       <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Events</title>
       <link>https://example.com/event/</link>
     </image>
+    
+    <item>
+      <title>Comparing humans and neural networks in speech deepfake detection</title>
+      <link>https://example.com/event/otero-comparing-2026/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/otero-comparing-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice Quality in Forensic Phonetics: When, How, and Why?</title>
+      <link>https://example.com/event/san-segundo-voice-2026/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-voice-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatically-extracted rhythm metrics can distinguish the presence, subtype, and severity of ataxic dysarthria</title>
+      <link>https://example.com/event/parrell-automatically-2026/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/parrell-automatically-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>«Sonaba como Siri después de un café»: El oído humano como detector de deepfakes de voz</title>
+      <link>https://example.com/event/san-segundo-sonaba-2026/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-sonaba-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La capacidad humana para detectar voces sintéticas: un estudio perceptivo en español y japonés</title>
+      <link>https://example.com/event/lopez-jareno-capacidad-2026/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/lopez-jareno-capacidad-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La regulación de las voces sintéticas y clonadas: desafíos para la ciencia, la ética y el derecho</title>
+      <link>https://example.com/event/rodriguez-regulacion-2026/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/rodriguez-regulacion-2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Perception of audio deepfakes in Spanish and Japanese: effects of language, speaking style, and voice familiarity</title>
@@ -33,6 +81,22 @@
       <link>https://example.com/event/san-segundo-evaluacion-2025/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <guid>https://example.com/event/san-segundo-evaluacion-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Deepfakes and Forensic Phonetics</title>
+      <link>https://example.com/event/san-segundo-audio-2025/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-audio-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algunas reflexiones sobre los deepfakes de voz</title>
+      <link>https://example.com/event/san-segundo-algunas-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-algunas-2025/</guid>
       <description></description>
     </item>
     

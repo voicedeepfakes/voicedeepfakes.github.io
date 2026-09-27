@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eugenia San Segundo Fernández | Voice Deepfakes Research Project</title>
+    <link>https://example.com/author/eugenia-san-segundo-fernandez/</link>
+      <atom:link href="https://example.com/author/eugenia-san-segundo-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eugenia San Segundo Fernández</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Eugenia San Segundo Fernández</title>
+      <link>https://example.com/author/eugenia-san-segundo-fernandez/</link>
+    </image>
+    
+    <item>
+      <title>«Sonaba como Siri después de un café»: El oído humano como detector de deepfakes de voz</title>
+      <link>https://example.com/event/san-segundo-sonaba-2026/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-sonaba-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La capacidad humana para detectar voces sintéticas: un estudio perceptivo en español y japonés</title>
+      <link>https://example.com/event/lopez-jareno-capacidad-2026/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/lopez-jareno-capacidad-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La regulación de las voces sintéticas y clonadas: desafíos para la ciencia, la ética y el derecho</title>
+      <link>https://example.com/event/rodriguez-regulacion-2026/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/rodriguez-regulacion-2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

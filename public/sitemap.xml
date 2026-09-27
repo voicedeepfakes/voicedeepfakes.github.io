@@ -2,19 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/publication-type/1/</loc>
-    <lastmod>2025-08-13T21:09:17+02:00</lastmod>
+    <loc>https://example.com/publication-type/2/</loc>
+    <lastmod>2026-09-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/aurora-lopez-jareno/</loc>
-    <lastmod>2025-08-13T21:09:17+02:00</lastmod>
+    <lastmod>2026-09-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/authors/</loc>
-    <lastmod>2025-08-13T21:09:17+02:00</lastmod>
+    <lastmod>2026-09-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/eugenia-san-segundo/</loc>
+    <lastmod>2026-09-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/san-segundo-human-2026/</loc>
+    <lastmod>2026-09-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/junichi-yamagishi/</loc>
+    <lastmod>2026-09-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2026-09-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/xin-wang/</loc>
+    <lastmod>2026-09-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/alfonso-carlos-rodriguez-pena/</loc>
+    <lastmod>2026-08-31T19:06:22+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/rodriguez-deepfakes-2026/</loc>
+    <lastmod>2026-08-31T19:06:22+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/hernandez-beyond-2026/</loc>
+    <lastmod>2026-08-16T21:11:38+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/blanca-hernandez/</loc>
+    <lastmod>2026-08-16T21:11:38+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/jonathan-delgado/</loc>
+    <lastmod>2026-08-16T21:11:38+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/otero-comparing-2026/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/joaquin-gonzalez-rodriguez/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/manuel-otero-gonzalez/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/san-segundo-voice-2026/</loc>
+    <lastmod>2026-05-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/san-segundo-eso-2026/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/0/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/vega-rodriguez-sanchez/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/san-segundo-audio-2026/</loc>
+    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/parrell-automatically-2026/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/ben-parrell/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/san-segundo-sonaba-2026/</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/eugenia-san-segundo-fernandez/</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/alfonso-rodriguez-fernandez-pena/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/lopez-jareno-capacidad-2026/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/rodriguez-regulacion-2026/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/univaso-detection-2025/</loc>
+    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/pedro-univaso/</loc>
+    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/1/</loc>
     <lastmod>2025-08-13T21:09:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -24,18 +136,6 @@
   </url><url>
     <loc>https://example.com/publication/lopez-jareno-perception-2025/</loc>
     <lastmod>2025-08-13T21:09:17+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication_types/</loc>
-    <lastmod>2025-08-13T21:09:17+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/author/xin-wang/</loc>
-    <lastmod>2025-08-13T21:09:17+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/author/jonathan-delgado/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/romero-perceptual-2025/</loc>
@@ -54,12 +154,16 @@
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/event/san-segundo-evaluacion-2025/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/san-segundo-audio-2025/</loc>
+    <lastmod>2025-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/san-segundo-algunas-2025/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/event/san-segundo-unmasking-2025/</loc>
@@ -174,22 +278,6 @@
     <lastmod>2023-11-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/san-segundo-voz-2023/</loc>
-    <lastmod>2023-10-24T00:23:04+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/author/humberto-maximiliano-torres/</loc>
-    <lastmod>2023-10-24T00:23:04+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/author/jorge-gurlekian/</loc>
-    <lastmod>2023-10-24T00:23:04+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/author/pedro-univaso/</loc>
-    <lastmod>2023-10-24T00:23:04+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/event/san-segundo-fonetica-2023/</loc>
     <lastmod>2023-10-19T12:49:08+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -215,6 +303,14 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/event/san-segundo-voz-2023/</loc>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/humberto-maximiliano-torres/</loc>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/jorge-gurlekian/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
